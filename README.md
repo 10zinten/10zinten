@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tenzin</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Lead Software Developer</h3>
 
 - 🔭 I’m currently working on [OpenPecha](https://github.com/OpenPecha)
 
